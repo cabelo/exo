@@ -271,4 +271,6 @@ exo supports the following inference engines:
 
 ##  MultiCortex EXO: LLM HPC for Dummies 
 <img align="left" width="120" height="120" src="https://github.com/cabelo/exo/blob/main/docs/exopen.png">
-Many people have GPUs of 8 GB or less, which is not enough to run larger models. The EXO project brings cluster technology to your home, allowing you to create residential supercomputers. MultiCortex EXO live (powered by openSUSE) was developed to make this possible without requiring technical knowledge: just boot the system from a USB flash drive, and all the machines connect automatically, forming a supercomputer that can run large LLMs such as LLAMA, DeepSeek and others. Download here:https://en.opensuse.org/User:Cabelo/MultiCortex-EXO - Contact: Alessandro de Oliveira Faria (A.K.A.CABELO) at cabelo@opensuse.org
+Many people have GPUs of 8 GB or less, which is not enough to run larger models. The EXO project brings cluster technology to your home, allowing you to create residential supercomputers. MultiCortex EXO live (powered by openSUSE) was developed to make this possible without requiring technical knowledge: just boot the system from a USB flash drive, and all the machines connect automatically, forming a supercomputer that can run large LLMs such as LLAMA, DeepSeek and others. 
+Download here:https://en.opensuse.org/User:Cabelo/MultiCortex-EXO
+Contact: Alessandro de Oliveira Faria (A.K.A.CABELO) at cabelo@opensuse.org
